@@ -76,5 +76,3 @@ The output displays the before image, after image, and corresponding ground trut
 
 The trained model learns to identify structural and environmental changes between two time periods. The system provides visual comparison between input images and labeled change regions, demonstrating the effectiveness of deep learning in satellite image analysis.
 
-
-This project is created for academic and educational purposes.
